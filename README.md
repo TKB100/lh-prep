@@ -1,6 +1,6 @@
 # Python Automation Suite
 
-![CI](https://github.com/TKB100/lh-prep/actions/workflows/test.yml/badge.svg)
+![CI](https://github.com/TKB100/python-automation-suite/actions/workflows/test.yml/badge.svg)
 
 A collection of Python automation tools demonstrating real-world software engineering skills including subprocess automation, CLI tooling, file I/O, object-oriented programming, automated testing with pytest, and CI/CD pipeline configuration with GitHub Actions.
 
@@ -46,8 +46,8 @@ A collection of Python automation tools demonstrating real-world software engine
 ### Installation
 
 ```bash
-git clone https://github.com/TKB100/lh-prep.git
-cd lh-prep
+git clone https://github.com/TKB100/python-automation-suite.git
+cd python-automation-suite
 pip install pytest
 ```
 
@@ -109,3 +109,4 @@ Pipeline configuration: `.github/workflows/test.yml`
 **Triston Barrientos**
 CS Senior — Texas Tech University (May 2026)
 [LinkedIn](https://linkedin.com/in/triston00barrientos) | [GitHub](https://github.com/TKB100)
+
